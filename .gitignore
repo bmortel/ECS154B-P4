@@ -349,3 +349,4 @@ simulator_run_dir
 # For containers
 *.sif
 .treadle_repl_history
+.vagrant
